@@ -2,7 +2,7 @@ basedir = File.expand_path(File.dirname(__FILE__))
 require "#{basedir}/lib/prawn/table/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "prawn-table"
+  spec.name = "prawn-table-continued"
   spec.version = Prawn::Table::VERSION
   spec.platform = Gem::Platform::RUBY
   spec.summary = "Provides tables for PrawnPDF"
