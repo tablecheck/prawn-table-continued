@@ -1,5 +1,5 @@
 module Prawn
   class Table
-    VERSION = '0.2.3'.freeze
+    VERSION = '1.0.0.rc1'.freeze
   end
 end

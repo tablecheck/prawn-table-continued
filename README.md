@@ -1,8 +1,17 @@
+# About "Prawn Table Continued" gem
+
+This is a fork of the original [Prawn Table gem](https://github.com/prawnpdf/prawn-table).
+Please refer to note in [prawn-continued gem README](https://github.com/tablecheck/prawn-continued/blob/master/README.md#about-prawn-continued-gem)
+for details.
+
+The most recent release of the original prawn-table gem is [v0.2.2](https://rubygems.org/gems/prawn-table/versions/0.2.2)
+on July 16, 2015. This prawn-table-continued gem will be released beginning at version 1.0.0.
+
 # Prawn::Table
 
-[![Gem Version](https://badge.fury.io/rb/prawn-table.png)](http://badge.fury.io/rb/prawn-table)
-![Build Status](https://github.com/prawnpdf/prawn-table/actions/workflows/ci.yml/badge.svg)
-[![Code Climate](https://codeclimate.com/github/prawnpdf/prawn-table.png)](https://codeclimate.com/github/prawnpdf/prawn-table)
+[![Gem Version](https://badge.fury.io/rb/prawn-table.png)](http://badge.fury.io/rb/prawn-table-continued)
+![Build Status](https://github.com/tablecheck/prawn-table-continued/actions/workflows/ci.yml/badge.svg)
+[![Code Climate](https://codeclimate.com/github/tablecheck/prawn-table-continued.png)](https://codeclimate.com/github/tablecheck/prawn-table-continued)
 ![Maintained: PRs accepted](https://img.shields.io/badge/maintained-PRs_accepted-orange.png)
 
 Provides table support for PrawnPDF.

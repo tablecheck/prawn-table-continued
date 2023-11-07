@@ -1,5 +1,9 @@
 ## Master
 
+* Your change here.
+
+## 1.0.0.rc1
+
 * Bugfix: Use a cell's custom style over table styles. (PR [#143](https://github.com/prawnpdf/prawn-table/pull/143), issue [#56](https://github.com/prawnpdf/prawn-table/issues/56))
 * Bugfix: Use the cell's specified font to calculate the cell width. (Jesse Doyle, PR [#60](https://github.com/prawnpdf/prawn-table/pull/60), issue [#42](https://github.com/prawnpdf/prawn-table/issues/42))
 
