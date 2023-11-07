@@ -2,6 +2,10 @@
 
 * Your change here.
 
+## 1.0.0.rc3
+
+* Bugfix: Add file to auto-require `prawn-table-continued`.
+
 ## 1.0.0.rc2
 
 * Bugfix: Change dependency from `prawn` to `prawn-continued`.
